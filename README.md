@@ -19,3 +19,15 @@ brew install lynx
 ```
 bash script.sh
 ```
+
+### Steps to use it in Ubuntu
+
+* Install lynx
+```
+sudo apt install lynx
+```
+
+* Execute the script
+```
+bash script.sh
+```
